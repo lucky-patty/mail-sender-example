@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express-handlebars": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "handlebars": "^4.7.7",
+    "nodemailer": "^6.5.0"
+  }
+}
